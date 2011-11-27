@@ -1,0 +1,14 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting struct ::A2
+-- Stopping ::A2
+-- Starting struct ::B
+-- Starting class ::B::C
+-- Stopping ::B::C
+-- Stopping ::B
+-- Starting struct ::B2
+-- Stopping ::B2
+-- Starting struct ::E
+-- Stopping ::E
+-- Starting struct ::F
+-- Stopping ::F

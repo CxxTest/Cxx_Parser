@@ -1,0 +1,6 @@
+-- Starting struct ::nsStyleStructID
+-- Stopping ::nsStyleStructID
+-- Starting struct ::nsCachedStyleData
+-- Starting struct ::nsCachedStyleData::StyleStructInfo
+-- Stopping ::nsCachedStyleData::StyleStructInfo
+-- Stopping ::nsCachedStyleData

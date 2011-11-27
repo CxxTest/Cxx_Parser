@@ -1,0 +1,30 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting struct ::B
+-- Stopping ::B
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::D
+-- Stopping ::D
+-- Starting struct ::Ap
+-- Stopping ::Ap
+-- Starting struct ::Apr
+-- Stopping ::Apr
+-- Starting struct ::Apvr
+-- Stopping ::Apvr
+-- Starting struct ::Bp
+-- Stopping ::Bp
+-- Starting struct ::Bpr
+-- Stopping ::Bpr
+-- Starting struct ::Cp
+-- Stopping ::Cp
+-- Starting struct ::Er
+-- Stopping ::Er
+-- Starting struct ::Apm
+-- Stopping ::Apm
+-- Starting struct ::Apmr
+-- Stopping ::Apmr
+-- Starting struct ::Bpm
+-- Stopping ::Bpm
+-- Starting struct ::Bpmr
+-- Stopping ::Bpmr

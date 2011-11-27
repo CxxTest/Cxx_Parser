@@ -1,0 +1,2 @@
+-- Starting struct ::_IO_FILE
+-- Stopping ::_IO_FILE

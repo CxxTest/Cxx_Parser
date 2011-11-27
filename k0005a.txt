@@ -1,0 +1,14 @@
+-- Starting struct ::S1
+-- Stopping ::S1
+-- Starting struct ::S2
+-- Stopping ::S2
+-- Starting struct ::otherS
+-- Stopping ::otherS
+-- Starting struct ::S3
+-- Stopping ::S3
+-- Starting struct ::S4
+-- Stopping ::S4
+-- Starting struct ::S5
+-- Stopping ::S5
+-- Starting struct ::S6
+-- Stopping ::S6

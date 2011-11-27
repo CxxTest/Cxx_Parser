@@ -1,0 +1,4 @@
+-- Starting namespace ::
+-- Starting class ::::type_info
+-- Stopping ::::type_info
+-- Stopping ::

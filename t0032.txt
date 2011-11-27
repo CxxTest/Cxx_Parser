@@ -1,0 +1,4 @@
+-- Starting struct ::nsStr
+-- Starting union ::nsStr::
+-- Stopping ::nsStr::
+-- Stopping ::nsStr

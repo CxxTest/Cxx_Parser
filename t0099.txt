@@ -1,0 +1,12 @@
+-- Starting struct ::_ios_fields
+-- Stopping ::_ios_fields
+-- Starting class ::ios
+-- Stopping ::ios
+-- Starting class ::ostream
+-- Stopping ::ostream
+-- Starting class ::strstreambuf
+-- Stopping ::strstreambuf
+-- Starting class ::strstreambase
+-- Stopping ::strstreambase
+-- Starting class ::ostrstream
+-- Stopping ::ostrstream

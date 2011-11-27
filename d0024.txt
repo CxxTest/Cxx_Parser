@@ -1,0 +1,2 @@
+-- Starting struct ::stat
+-- Stopping ::stat

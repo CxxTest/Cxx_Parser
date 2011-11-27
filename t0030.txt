@@ -1,0 +1,18 @@
+-- Starting class ::Foo
+-- Stopping ::Foo
+-- Starting class ::
+-- Stopping ::
+-- Starting struct ::
+-- Stopping ::
+-- Starting struct ::stat
+-- Stopping ::stat
+-- Starting struct ::timezone
+-- Stopping ::timezone
+-- Starting class ::ios
+-- Stopping ::ios
+-- Starting class ::streammarker
+-- Stopping ::streammarker
+-- Starting struct ::streambuf
+-- Stopping ::streambuf
+-- Starting class ::ostream
+-- Stopping ::ostream

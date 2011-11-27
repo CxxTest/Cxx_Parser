@@ -1,0 +1,2 @@
+-- Starting struct ::info_t
+-- Stopping ::info_t

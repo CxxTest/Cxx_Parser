@@ -1,0 +1,4 @@
+-- Starting namespace ::
+-- Starting class ::::A
+-- Stopping ::::A
+-- Stopping ::

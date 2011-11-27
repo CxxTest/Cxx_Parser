@@ -1,0 +1,18 @@
+-- Starting struct ::sockaddr
+-- Stopping ::sockaddr
+-- Starting struct ::in_addr
+-- Stopping ::in_addr
+-- Starting struct ::sockaddr_in
+-- Stopping ::sockaddr_in
+-- Starting struct ::in6_addr
+-- Starting union ::in6_addr::
+-- Stopping ::in6_addr::
+-- Stopping ::in6_addr
+-- Starting struct ::sockaddr_in6
+-- Stopping ::sockaddr_in6
+-- Starting union ::sockunion
+-- Starting struct ::sockunion::sockinet
+-- Stopping ::sockunion::sockinet
+-- Stopping ::sockunion
+-- Starting union ::
+-- Stopping ::

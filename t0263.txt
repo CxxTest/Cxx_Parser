@@ -1,0 +1,6 @@
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting class ::__default_alloc_template
+-- Starting union ::__default_alloc_template::_Obj
+-- Stopping ::__default_alloc_template::_Obj
+-- Stopping ::__default_alloc_template

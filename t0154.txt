@@ -1,0 +1,12 @@
+-- Starting class ::nsAString
+-- Stopping ::nsAString
+-- Starting struct ::nsStringTraits
+-- Stopping ::nsStringTraits
+-- Starting struct ::nsStringTraits
+-- Stopping ::nsStringTraits
+-- Starting class ::nsReadingIterator
+-- Stopping ::nsReadingIterator
+-- Starting class ::nsACString
+-- Stopping ::nsACString
+-- Starting class ::nsDependentCSubstring
+-- Stopping ::nsDependentCSubstring

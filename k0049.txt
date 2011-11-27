@@ -1,0 +1,2 @@
+-- Starting struct ::restrict
+-- Stopping ::restrict

@@ -1,0 +1,24 @@
+-- Function declaration xtest  ::xtest
+-- Function declaration testy  ::testy
+-- Function declaration test  ::test
+-- Function declaration _test_  ::_test_
+-- Starting class ::A
+-- Function declaration xtest  ::A::xtest
+-- Function declaration testy  ::A::testy
+-- Function declaration test  ::A::test
+-- Function declaration _test_  ::A::_test_
+-- Stopping ::A
+-- Starting class ::B
+-- Function declaration B_xtest  ::B::B_xtest
+-- Function declaration B_testy  ::B::B_testy
+-- Function declaration B_test  ::B::B_test
+-- Function declaration B__test_  ::B::B__test_
+-- Stopping ::B
+-- Starting class ::X
+-- Function declaration test1  ::X::test1
+-- Function declaration test1  ::X::test1
+-- Stopping ::X
+-- Starting class ::Y
+-- Stopping ::Y
+-- Starting class ::Z
+-- Stopping ::Z

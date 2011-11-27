@@ -1,0 +1,2 @@
+-- Starting class ::bad_alloc
+-- Stopping ::bad_alloc

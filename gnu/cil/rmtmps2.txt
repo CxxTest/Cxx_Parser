@@ -1,0 +1,5 @@
+-- Starting struct ::
+-- Stopping ::
+-- Function declaration atomic_dec_and_test  ::atomic_dec_and_test
+-- Starting struct ::mm_struct
+-- Stopping ::mm_struct

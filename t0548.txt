@@ -1,0 +1,22 @@
+-- Starting namespace ::
+-- Starting class ::::A
+-- Stopping ::::A
+-- Starting class ::::A::B
+-- Stopping ::::A::B
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::A
+-- Stopping ::::A
+-- Starting class ::::A::B
+-- Stopping ::::A::B
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::A
+-- Stopping ::::A
+-- Starting class ::::A::B
+-- Stopping ::::A::B
+-- Stopping ::
+-- Starting class ::A
+-- Stopping ::A
+-- Starting class ::A::B
+-- Stopping ::A::B

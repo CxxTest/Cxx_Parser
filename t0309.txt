@@ -1,0 +1,14 @@
+-- Starting struct ::Base
+-- Stopping ::Base
+-- Starting struct ::Derived
+-- Stopping ::Derived
+-- Starting struct ::ConvToInt
+-- Stopping ::ConvToInt
+-- Starting struct ::ConvToIntRef
+-- Stopping ::ConvToIntRef
+-- Starting struct ::ConvFromInt
+-- Stopping ::ConvFromInt
+-- Starting struct ::ConvBoth
+-- Stopping ::ConvBoth
+-- Starting struct ::ConvToCharOrShort
+-- Stopping ::ConvToCharOrShort

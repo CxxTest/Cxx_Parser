@@ -1,0 +1,4 @@
+-- Starting class ::QChar
+-- Stopping ::QChar
+-- Starting class ::QCharRef
+-- Stopping ::QCharRef

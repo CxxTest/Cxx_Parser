@@ -1,0 +1,4 @@
+-- Starting class ::Anon_class_1
+-- Stopping ::Anon_class_1
+-- Starting class ::
+-- Stopping ::

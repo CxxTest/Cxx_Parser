@@ -1,0 +1,4 @@
+-- Starting class ::SomeBase
+-- Stopping ::SomeBase
+-- Starting class ::nsSharedBufferHandle
+-- Stopping ::nsSharedBufferHandle

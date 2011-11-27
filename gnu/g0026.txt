@@ -1,0 +1,4 @@
+-- Starting class ::basic_string
+-- Starting struct ::basic_string::Rep
+-- Stopping ::basic_string::Rep
+-- Stopping ::basic_string

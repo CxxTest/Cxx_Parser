@@ -1,0 +1,14 @@
+-- Starting struct ::__is_pod
+-- Stopping ::__is_pod
+-- Starting class ::_Rb_tree
+-- Starting struct ::_Rb_tree::_Rb_tree_impl
+-- Stopping ::_Rb_tree::_Rb_tree_impl
+-- Stopping ::_Rb_tree
+-- Starting namespace ::
+-- Starting struct ::::__is_pod
+-- Stopping ::::__is_pod
+-- Starting class ::::_Rb_tree
+-- Starting struct ::::_Rb_tree::_Rb_tree_impl
+-- Stopping ::::_Rb_tree::_Rb_tree_impl
+-- Stopping ::::_Rb_tree
+-- Stopping ::

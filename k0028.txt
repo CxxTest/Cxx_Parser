@@ -1,0 +1,12 @@
+-- Starting namespace ::
+-- Starting struct ::::S
+-- Stopping ::::S
+-- Stopping ::
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting struct ::::S
+-- Stopping ::::S
+-- Stopping ::
+-- Starting namespace ::
+-- Stopping ::

@@ -1,0 +1,10 @@
+-- Starting namespace ::
+-- Starting class ::::A
+-- Stopping ::::A
+-- Starting class ::::B
+-- Stopping ::::B
+-- Starting struct ::::C
+-- Stopping ::::C
+-- Stopping ::
+-- Starting struct ::D
+-- Stopping ::D

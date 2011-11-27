@@ -1,0 +1,4 @@
+-- Starting class ::Foo
+-- Starting struct ::Foo::hash
+-- Stopping ::Foo::hash
+-- Stopping ::Foo

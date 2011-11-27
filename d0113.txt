@@ -1,0 +1,8 @@
+-- Starting struct ::S
+-- Stopping ::S
+-- Starting struct ::D
+-- Stopping ::D
+-- Starting struct ::B
+-- Starting struct ::B::Rep
+-- Stopping ::B::Rep
+-- Stopping ::B

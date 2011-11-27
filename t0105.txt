@@ -1,0 +1,4 @@
+-- Starting class ::Goo
+-- Stopping ::Goo
+-- Starting class ::RefBox
+-- Stopping ::RefBox

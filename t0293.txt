@@ -1,0 +1,4 @@
+-- Starting class ::Base
+-- Stopping ::Base
+-- Starting class ::Derived
+-- Stopping ::Derived

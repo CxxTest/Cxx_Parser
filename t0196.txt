@@ -1,0 +1,4 @@
+-- Starting class ::N
+-- Starting class ::N::C
+-- Stopping ::N::C
+-- Stopping ::N

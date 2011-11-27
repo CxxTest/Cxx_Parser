@@ -1,0 +1,16 @@
+-- Starting namespace ::
+-- Stopping ::
+-- Starting struct ::__locale_struct
+-- Stopping ::__locale_struct
+-- Starting struct ::__pthread_attr_s
+-- Stopping ::__pthread_attr_s
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::exception
+-- Stopping ::::exception
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::basic_streambuf
+-- Stopping ::::basic_streambuf
+-- Stopping ::

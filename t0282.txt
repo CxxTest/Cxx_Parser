@@ -1,0 +1,4 @@
+-- Starting struct ::Char
+-- Stopping ::Char
+-- Starting struct ::Unsigned
+-- Stopping ::Unsigned

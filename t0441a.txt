@@ -1,0 +1,4 @@
+-- Starting struct ::Outer
+-- Stopping ::Outer
+-- Starting struct ::Outer::A
+-- Stopping ::Outer::A

@@ -1,0 +1,6 @@
+-- Starting struct ::Base
+-- Stopping ::Base
+-- Starting struct ::Derived
+-- Starting struct ::Derived::Inner
+-- Stopping ::Derived::Inner
+-- Stopping ::Derived

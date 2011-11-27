@@ -1,0 +1,6 @@
+-- Starting class ::allocator
+-- Stopping ::allocator
+-- Starting class ::basic_string
+-- Starting struct ::basic_string::_Alloc_hider
+-- Stopping ::basic_string::_Alloc_hider
+-- Stopping ::basic_string

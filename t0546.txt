@@ -1,0 +1,16 @@
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::locale
+-- Stopping ::::locale
+-- Starting class ::::locale::facet
+-- Stopping ::::locale::facet
+-- Starting class ::::ios_base
+-- Stopping ::::ios_base
+-- Stopping ::
+-- Starting namespace ::
+-- Starting struct ::::__pad
+-- Stopping ::::__pad
+-- Starting class ::::num_put
+-- Stopping ::::num_put
+-- Stopping ::

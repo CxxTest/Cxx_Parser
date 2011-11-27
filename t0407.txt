@@ -1,0 +1,20 @@
+-- Starting struct ::A
+-- Starting struct ::A::B
+-- Starting struct ::A::B::C
+-- Stopping ::A::B::C
+-- Stopping ::A::B
+-- Starting struct ::A::N
+-- Stopping ::A::N
+-- Starting struct ::A::N2
+-- Stopping ::A::N2
+-- Starting struct ::A::N3
+-- Stopping ::A::N3
+-- Stopping ::A
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::E
+-- Stopping ::E
+-- Starting namespace ::
+-- Stopping ::
+-- Starting struct ::F
+-- Stopping ::F

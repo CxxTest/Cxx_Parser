@@ -1,0 +1,58 @@
+-- Starting struct ::Int
+-- Stopping ::Int
+-- Starting struct ::Int2
+-- Stopping ::Int2
+-- Starting struct ::Long
+-- Stopping ::Long
+-- Starting struct ::Long2
+-- Stopping ::Long2
+-- Starting struct ::IntLong
+-- Stopping ::IntLong
+-- Starting struct ::IntLong2
+-- Stopping ::IntLong2
+-- Starting struct ::PInt
+-- Stopping ::PInt
+-- Starting struct ::PInt2
+-- Stopping ::PInt2
+-- Starting struct ::PLong
+-- Stopping ::PLong
+-- Starting struct ::PLong2
+-- Stopping ::PLong2
+-- Starting struct ::PIntLong
+-- Stopping ::PIntLong
+-- Starting struct ::PIntLong2
+-- Stopping ::PIntLong2
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting struct ::B
+-- Stopping ::B
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::D
+-- Stopping ::D
+-- Starting struct ::PA
+-- Stopping ::PA
+-- Starting struct ::PB
+-- Stopping ::PB
+-- Starting struct ::PC
+-- Stopping ::PC
+-- Starting struct ::PD
+-- Stopping ::PD
+-- Starting struct ::AcceptInt
+-- Stopping ::AcceptInt
+-- Starting struct ::AcceptLong
+-- Stopping ::AcceptLong
+-- Starting struct ::AcceptPInt
+-- Stopping ::AcceptPInt
+-- Starting struct ::AcceptPLong
+-- Stopping ::AcceptPLong
+-- Starting struct ::AcceptPA
+-- Stopping ::AcceptPA
+-- Starting struct ::AcceptPB
+-- Stopping ::AcceptPB
+-- Starting struct ::AcceptPC
+-- Stopping ::AcceptPC
+-- Starting struct ::AcceptPD
+-- Stopping ::AcceptPD
+-- Starting struct ::LikeQuestion
+-- Stopping ::LikeQuestion

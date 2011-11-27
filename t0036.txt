@@ -1,0 +1,4 @@
+-- Starting class ::Baz
+-- Stopping ::Baz
+-- Starting class ::Foo
+-- Stopping ::Foo

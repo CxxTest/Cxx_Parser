@@ -1,0 +1,2 @@
+-- Starting struct ::Anon_struct_10
+-- Stopping ::Anon_struct_10

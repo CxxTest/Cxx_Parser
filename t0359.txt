@@ -1,0 +1,6 @@
+-- Starting class ::HashTable
+-- Stopping ::HashTable
+-- Starting struct ::HashTableIter
+-- Stopping ::HashTableIter
+-- Starting class ::OwnerHashTable
+-- Stopping ::OwnerHashTable

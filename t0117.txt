@@ -1,0 +1,14 @@
+-- Starting class ::Foo
+-- Stopping ::Foo
+-- Starting class ::Base
+-- Stopping ::Base
+-- Starting class ::Ambiguous
+-- Stopping ::Ambiguous
+-- Starting class ::Amb1
+-- Stopping ::Amb1
+-- Starting class ::Amb2
+-- Stopping ::Amb2
+-- Starting class ::Virtual
+-- Stopping ::Virtual
+-- Starting class ::Derived
+-- Stopping ::Derived

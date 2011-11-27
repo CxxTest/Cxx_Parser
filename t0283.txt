@@ -1,0 +1,40 @@
+-- Starting namespace ::
+-- Stopping ::
+-- Starting struct ::__false_type
+-- Stopping ::__false_type
+-- Starting struct ::_Is_integer
+-- Stopping ::_Is_integer
+-- Starting namespace ::
+-- Starting struct ::::input_iterator_tag
+-- Stopping ::::input_iterator_tag
+-- Starting struct ::::forward_iterator_tag
+-- Stopping ::::forward_iterator_tag
+-- Starting struct ::::bidirectional_iterator_tag
+-- Stopping ::::bidirectional_iterator_tag
+-- Starting struct ::::random_access_iterator_tag
+-- Stopping ::::random_access_iterator_tag
+-- Starting struct ::::iterator
+-- Stopping ::::iterator
+-- Starting struct ::::iterator_traits
+-- Stopping ::::iterator_traits
+-- Starting struct ::::iterator_traits
+-- Stopping ::::iterator_traits
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::__normal_iterator
+-- Stopping ::::__normal_iterator
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::__default_alloc_template
+-- Stopping ::::__default_alloc_template
+-- Starting class ::::allocator
+-- Stopping ::::allocator
+-- Stopping ::
+-- Starting namespace ::
+-- Starting struct ::::binary_function
+-- Stopping ::::binary_function
+-- Starting class ::::basic_string
+-- Starting struct ::::basic_string::_Alloc_hider
+-- Stopping ::::basic_string::_Alloc_hider
+-- Stopping ::::basic_string
+-- Stopping ::

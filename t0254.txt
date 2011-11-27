@@ -1,0 +1,8 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting struct ::Outer
+-- Starting struct ::Outer::Inner
+-- Stopping ::Outer::Inner
+-- Starting struct ::Outer::InnerNontemplate
+-- Stopping ::Outer::InnerNontemplate
+-- Stopping ::Outer

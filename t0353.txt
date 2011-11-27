@@ -1,0 +1,12 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting class ::B
+-- Starting class ::B::Inner
+-- Starting class ::B::Inner::S
+-- Stopping ::B::Inner::S
+-- Stopping ::B::Inner
+-- Starting class ::B::Inner2
+-- Starting class ::B::Inner2::S
+-- Stopping ::B::Inner2::S
+-- Stopping ::B::Inner2
+-- Stopping ::B

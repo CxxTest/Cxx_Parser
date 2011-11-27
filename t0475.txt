@@ -1,0 +1,6 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Function declaration test_a  ::test_a
+-- Starting struct ::B
+-- Stopping ::B
+-- Function declaration test_b  ::test_b

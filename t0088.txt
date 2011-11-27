@@ -1,0 +1,6 @@
+-- Starting struct ::nsStyleStruct
+-- Stopping ::nsStyleStruct
+-- Starting struct ::nsCSSStruct
+-- Stopping ::nsCSSStruct
+-- Starting class ::nsRuleNode
+-- Stopping ::nsRuleNode

@@ -1,0 +1,6 @@
+-- Starting class ::nsReadingIterator
+-- Stopping ::nsReadingIterator
+-- Starting class ::nsAString
+-- Stopping ::nsAString
+-- Starting class ::nsASingleFragmentString
+-- Stopping ::nsASingleFragmentString

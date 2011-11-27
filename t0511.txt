@@ -1,0 +1,30 @@
+-- Starting struct ::B
+-- Stopping ::B
+-- Starting struct ::B2
+-- Stopping ::B2
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::Pair
+-- Stopping ::Pair
+-- Starting struct ::Pair2
+-- Stopping ::Pair2
+-- Starting struct ::Num
+-- Stopping ::Num
+-- Starting struct ::TakesIntRef
+-- Stopping ::TakesIntRef
+-- Starting struct ::TakesIntPtr
+-- Stopping ::TakesIntPtr
+-- Starting struct ::TakesPTM
+-- Stopping ::TakesPTM
+-- Starting struct ::D
+-- Starting struct ::D::E
+-- Stopping ::D::E
+-- Starting struct ::D::E
+-- Stopping ::D::E
+-- Starting struct ::D::E
+-- Stopping ::D::E
+-- Starting struct ::D::F
+-- Stopping ::D::F
+-- Stopping ::D
+-- Starting struct ::A
+-- Stopping ::A

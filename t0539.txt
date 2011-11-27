@@ -1,0 +1,24 @@
+-- Starting class ::Visible
+-- Stopping ::Visible
+-- Starting class ::Hidden
+-- Stopping ::Hidden
+-- Starting namespace ::
+-- Starting namespace ::::
+-- Starting struct ::::::C
+-- Starting struct ::::::C::D
+-- Stopping ::::::C::D
+-- Stopping ::::::C
+-- Starting struct ::::::C::E
+-- Stopping ::::::C::E
+-- Stopping ::::
+-- Stopping ::
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting namespace ::::
+-- Stopping ::::
+-- Stopping ::
+-- Starting namespace ::
+-- Stopping ::

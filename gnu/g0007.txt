@@ -1,0 +1,2 @@
+-- Starting union ::my_error_arguments
+-- Stopping ::my_error_arguments

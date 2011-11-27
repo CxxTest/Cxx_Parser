@@ -1,0 +1,8 @@
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting class ::::basic_streambuf
+-- Stopping ::::basic_streambuf
+-- Stopping ::

@@ -1,0 +1,12 @@
+-- Starting struct ::A
+-- Starting struct ::A::T1
+-- Stopping ::A::T1
+-- Stopping ::A
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::List
+-- Stopping ::List
+-- Starting struct ::Vector
+-- Stopping ::Vector
+-- Starting struct ::B
+-- Stopping ::B

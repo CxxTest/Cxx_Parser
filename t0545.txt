@@ -1,0 +1,10 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting class ::OpaqueValueData
+-- Stopping ::OpaqueValueData
+-- Starting class ::OpaqueValue
+-- Stopping ::OpaqueValue
+-- Starting class ::OVDPtrImpl
+-- Stopping ::OVDPtrImpl
+-- Starting class ::Ptr
+-- Stopping ::Ptr

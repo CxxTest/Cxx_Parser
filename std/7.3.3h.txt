@@ -1,0 +1,8 @@
+-- Starting namespace ::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting struct ::::g
+-- Stopping ::::g
+-- Starting struct ::::x
+-- Stopping ::::x
+-- Stopping ::

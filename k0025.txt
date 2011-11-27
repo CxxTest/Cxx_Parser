@@ -1,0 +1,14 @@
+-- Starting namespace ::
+-- Starting struct ::::S1
+-- Stopping ::::S1
+-- Starting struct ::::S2
+-- Stopping ::::S2
+-- Starting struct ::::T1
+-- Starting struct ::::T1::S3
+-- Stopping ::::T1::S3
+-- Stopping ::::T1
+-- Starting struct ::::T2
+-- Starting struct ::::T2::S1
+-- Stopping ::::T2::S1
+-- Stopping ::::T2
+-- Stopping ::

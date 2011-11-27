@@ -1,0 +1,28 @@
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting struct ::B
+-- Stopping ::B
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::D
+-- Stopping ::D
+-- Starting struct ::E
+-- Stopping ::E
+-- Starting struct ::F
+-- Stopping ::F
+-- Starting class ::G
+-- Stopping ::G
+-- Starting class ::H
+-- Stopping ::H
+-- Starting class ::I
+-- Stopping ::I
+-- Starting class ::J
+-- Stopping ::J
+-- Starting class ::K
+-- Stopping ::K
+-- Starting class ::L
+-- Stopping ::L
+-- Starting class ::K2
+-- Stopping ::K2
+-- Starting class ::L2
+-- Stopping ::L2

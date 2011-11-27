@@ -1,0 +1,6 @@
+-- Starting struct ::S1
+-- Stopping ::S1
+-- Starting struct ::S1::S2
+-- Starting struct ::S1::S2::S3
+-- Stopping ::S1::S2::S3
+-- Stopping ::S1::S2

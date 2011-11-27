@@ -1,0 +1,10 @@
+-- Starting class ::C
+-- Stopping ::C
+-- Starting namespace ::
+-- Starting class ::::Foo
+-- Stopping ::::Foo
+-- Stopping ::
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting class ::QCollection
+-- Stopping ::QCollection

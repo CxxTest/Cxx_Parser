@@ -1,0 +1,4 @@
+-- Starting namespace ::
+-- Starting struct ::::C
+-- Stopping ::::C
+-- Stopping ::

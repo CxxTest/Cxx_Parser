@@ -1,0 +1,2 @@
+-- Starting class ::smanip
+-- Stopping ::smanip

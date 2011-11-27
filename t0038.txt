@@ -1,0 +1,4 @@
+-- Starting class ::StringDict
+-- Starting class ::StringDict::Iter
+-- Stopping ::StringDict::Iter
+-- Stopping ::StringDict

@@ -1,0 +1,4 @@
+-- Starting class ::nsIStyleContext
+-- Stopping ::nsIStyleContext
+-- Starting struct ::S
+-- Stopping ::S

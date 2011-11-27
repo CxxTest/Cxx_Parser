@@ -1,0 +1,4 @@
+-- Starting class ::string_char_traits
+-- Stopping ::string_char_traits
+-- Starting class ::string_char_traits
+-- Stopping ::string_char_traits

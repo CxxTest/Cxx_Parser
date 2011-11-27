@@ -1,0 +1,6 @@
+-- Starting class ::ACE_Based_Pointer
+-- Stopping ::ACE_Based_Pointer
+-- Starting class ::ACE_PI_Control_Block
+-- Starting class ::ACE_PI_Control_Block::ACE_Malloc_Header
+-- Stopping ::ACE_PI_Control_Block::ACE_Malloc_Header
+-- Stopping ::ACE_PI_Control_Block

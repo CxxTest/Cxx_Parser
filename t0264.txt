@@ -1,0 +1,4 @@
+-- Starting class ::__default_alloc_template
+-- Starting struct ::__default_alloc_template::_Obj
+-- Stopping ::__default_alloc_template::_Obj
+-- Stopping ::__default_alloc_template

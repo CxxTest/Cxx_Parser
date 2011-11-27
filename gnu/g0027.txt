@@ -1,0 +1,2 @@
+-- Starting class ::string
+-- Stopping ::string

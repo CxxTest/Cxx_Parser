@@ -1,0 +1,4 @@
+-- Starting class ::Foo2
+-- Stopping ::Foo2
+-- Starting class ::Foo
+-- Stopping ::Foo

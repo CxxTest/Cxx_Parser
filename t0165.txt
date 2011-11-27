@@ -1,0 +1,4 @@
+-- Starting class ::nsCOMPtr
+-- Stopping ::nsCOMPtr
+-- Starting class ::nsCOMPtr
+-- Stopping ::nsCOMPtr

@@ -1,0 +1,26 @@
+-- Starting namespace ::
+-- Starting struct ::::B
+-- Stopping ::::B
+-- Starting namespace ::::
+-- Starting struct ::::::A
+-- Stopping ::::::A
+-- Stopping ::::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting namespace ::::
+-- Starting struct ::::::A
+-- Stopping ::::::A
+-- Stopping ::::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting namespace ::::
+-- Starting struct ::::::A
+-- Stopping ::::::A
+-- Stopping ::::
+-- Stopping ::
+-- Starting namespace ::
+-- Starting namespace ::::
+-- Starting struct ::::::A
+-- Stopping ::::::A
+-- Stopping ::::
+-- Stopping ::

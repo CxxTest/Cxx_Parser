@@ -1,0 +1,4 @@
+-- Starting class ::Src
+-- Stopping ::Src
+-- Starting struct ::Dest
+-- Stopping ::Dest

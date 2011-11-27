@@ -1,0 +1,2 @@
+-- Starting class ::nsWritingIterator
+-- Stopping ::nsWritingIterator

@@ -1,0 +1,4 @@
+-- Starting struct ::already_AddRefed
+-- Stopping ::already_AddRefed
+-- Starting class ::nsCOMPtr
+-- Stopping ::nsCOMPtr

@@ -1,0 +1,8 @@
+-- Starting namespace ::
+-- Starting class ::::Foo
+-- Starting class ::::Foo::Another
+-- Stopping ::::Foo::Another
+-- Starting class ::::Foo::Bar
+-- Stopping ::::Foo::Bar
+-- Stopping ::::Foo
+-- Stopping ::

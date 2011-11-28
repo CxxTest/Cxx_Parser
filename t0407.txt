@@ -14,7 +14,7 @@
 -- Stopping ::C
 -- Starting struct ::E
 -- Stopping ::E
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::N
+-- Stopping ::N
 -- Starting struct ::F
 -- Stopping ::F

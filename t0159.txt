@@ -1,4 +1,4 @@
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::N1
+-- Stopping ::N1
 -- Starting struct ::S
 -- Stopping ::S

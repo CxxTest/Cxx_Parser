@@ -56,82 +56,82 @@
 -- Stopping ::__pthread_rwlock_t
 -- Starting struct ::__pthread_rwlockattr_t
 -- Stopping ::__pthread_rwlockattr_t
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::__gnu_debug_def
+-- Stopping ::__gnu_debug_def
+-- Starting namespace ::__gnu_debug
+-- Stopping ::__gnu_debug
+-- Starting namespace ::std
+-- Stopping ::std
 -- Starting struct ::
 -- Stopping ::
 -- Starting struct ::
 -- Stopping ::
 -- Starting struct ::
 -- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::__are_same
--- Stopping ::::__are_same
--- Starting struct ::::__are_same
--- Stopping ::::__are_same
--- Starting struct ::::__enable_if
--- Stopping ::::__enable_if
--- Starting struct ::::__enable_if
--- Stopping ::::__enable_if
--- Starting struct ::::__is_void
--- Stopping ::::__is_void
--- Starting struct ::::__is_void
--- Stopping ::::__is_void
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_integer
--- Stopping ::::__is_integer
--- Starting struct ::::__is_floating
--- Stopping ::::__is_floating
--- Starting struct ::::__is_floating
--- Stopping ::::__is_floating
--- Starting struct ::::__is_floating
--- Stopping ::::__is_floating
--- Starting struct ::::__is_floating
--- Stopping ::::__is_floating
--- Starting struct ::::__is_arithmetic
--- Stopping ::::__is_arithmetic
--- Starting struct ::::__is_fundamental
--- Stopping ::::__is_fundamental
--- Starting struct ::::__is_pod
--- Stopping ::::__is_pod
--- Stopping ::
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::__gnu_internal
+-- Stopping ::__gnu_internal
+-- Starting namespace ::std
+-- Starting struct ::std::__are_same
+-- Stopping ::std::__are_same
+-- Starting struct ::std::__are_same
+-- Stopping ::std::__are_same
+-- Starting struct ::std::__enable_if
+-- Stopping ::std::__enable_if
+-- Starting struct ::std::__enable_if
+-- Stopping ::std::__enable_if
+-- Starting struct ::std::__is_void
+-- Stopping ::std::__is_void
+-- Starting struct ::std::__is_void
+-- Stopping ::std::__is_void
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_integer
+-- Stopping ::std::__is_integer
+-- Starting struct ::std::__is_floating
+-- Stopping ::std::__is_floating
+-- Starting struct ::std::__is_floating
+-- Stopping ::std::__is_floating
+-- Starting struct ::std::__is_floating
+-- Stopping ::std::__is_floating
+-- Starting struct ::std::__is_floating
+-- Stopping ::std::__is_floating
+-- Starting struct ::std::__is_arithmetic
+-- Stopping ::std::__is_arithmetic
+-- Starting struct ::std::__is_fundamental
+-- Stopping ::std::__is_fundamental
+-- Starting struct ::std::__is_pod
+-- Stopping ::std::__is_pod
+-- Stopping ::std
 -- Starting union ::__dmath
 -- Stopping ::__dmath
 -- Starting union ::__fmath
@@ -140,16 +140,16 @@
 -- Stopping ::__ldmath
 -- Starting struct ::__exception
 -- Stopping ::__exception
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::__gnu_cxx
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::__gnu_cxx
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
 -- Starting struct ::_fpstate
 -- Stopping ::_fpstate
 -- Starting struct ::ucontext
@@ -180,67 +180,67 @@
 -- Starting union ::sigaction::
 -- Stopping ::sigaction::
 -- Stopping ::sigaction
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::std
+-- Stopping ::std
 -- Starting struct ::tm
 -- Stopping ::tm
 -- Starting struct ::__tzrule_struct
 -- Stopping ::__tzrule_struct
 -- Starting struct ::__tzinfo_struct
 -- Stopping ::__tzinfo_struct
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::pair
--- Stopping ::::pair
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::exception
--- Stopping ::::exception
--- Starting class ::::bad_exception
--- Stopping ::::bad_exception
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::bad_alloc
--- Stopping ::::bad_alloc
--- Starting struct ::::nothrow_t
--- Stopping ::::nothrow_t
--- Stopping ::
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting namespace ::std::rel_ops
+-- Stopping ::std::rel_ops
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::pair
+-- Stopping ::std::pair
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::exception
+-- Stopping ::std::exception
+-- Starting class ::std::bad_exception
+-- Stopping ::std::bad_exception
+-- Stopping ::std
+-- Starting namespace ::__gnu_cxx
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::std
+-- Starting class ::std::bad_alloc
+-- Stopping ::std::bad_alloc
+-- Starting struct ::std::nothrow_t
+-- Stopping ::std::nothrow_t
+-- Stopping ::std
 -- Starting struct ::lconv
 -- Stopping ::lconv
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
 -- Starting struct ::sched_param
 -- Stopping ::sched_param
 -- Starting struct ::_pthread_cleanup_handler
 -- Stopping ::_pthread_cleanup_handler
 -- Function declaration pthread_testcancel  ::pthread_testcancel
--- Starting namespace ::
--- Starting struct ::::__ios_flags
--- Stopping ::::__ios_flags
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::fpos
--- Stopping ::::fpos
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::std
+-- Starting struct ::std::__ios_flags
+-- Stopping ::std::__ios_flags
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::fpos
+-- Stopping ::std::fpos
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
 -- Starting struct ::__true_type
 -- Stopping ::__true_type
 -- Starting struct ::__false_type
@@ -311,619 +311,619 @@
 -- Stopping ::_Is_integer
 -- Starting struct ::_Is_normal_iterator
 -- Stopping ::_Is_normal_iterator
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::__gnu_cxx
+-- Stopping ::__gnu_cxx
 -- Starting struct ::_Is_normal_iterator
 -- Stopping ::_Is_normal_iterator
--- Starting namespace ::
--- Starting struct ::::input_iterator_tag
--- Stopping ::::input_iterator_tag
--- Starting struct ::::output_iterator_tag
--- Stopping ::::output_iterator_tag
--- Starting struct ::::forward_iterator_tag
--- Stopping ::::forward_iterator_tag
--- Starting struct ::::bidirectional_iterator_tag
--- Stopping ::::bidirectional_iterator_tag
--- Starting struct ::::random_access_iterator_tag
--- Stopping ::::random_access_iterator_tag
--- Starting struct ::::iterator
--- Stopping ::::iterator
--- Starting struct ::::iterator_traits
--- Stopping ::::iterator_traits
--- Starting struct ::::iterator_traits
--- Stopping ::::iterator_traits
--- Starting struct ::::iterator_traits
--- Stopping ::::iterator_traits
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::reverse_iterator
--- Stopping ::::reverse_iterator
--- Starting class ::::back_insert_iterator
--- Stopping ::::back_insert_iterator
--- Starting class ::::front_insert_iterator
--- Stopping ::::front_insert_iterator
--- Starting class ::::insert_iterator
--- Stopping ::::insert_iterator
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::__normal_iterator
--- Stopping ::::__normal_iterator
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::__copy_backward_dispatch
--- Stopping ::::__copy_backward_dispatch
--- Starting struct ::::__copy_backward_dispatch
--- Stopping ::::__copy_backward_dispatch
--- Starting struct ::::__copy_backward_dispatch
--- Stopping ::::__copy_backward_dispatch
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::new_allocator
--- Starting struct ::::new_allocator::rebind
--- Stopping ::::new_allocator::rebind
--- Stopping ::::new_allocator
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::allocator
--- Starting struct ::::allocator::rebind
--- Stopping ::::allocator::rebind
--- Stopping ::::allocator
--- Starting class ::::allocator
--- Starting struct ::::allocator::rebind
--- Stopping ::::allocator::rebind
--- Stopping ::::allocator
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_Deque_iterator
--- Stopping ::::_Deque_iterator
--- Starting class ::::_Deque_base
--- Starting struct ::::_Deque_base::_Deque_impl
--- Stopping ::::_Deque_base::_Deque_impl
--- Stopping ::::_Deque_base
--- Starting class ::::deque
--- Stopping ::::deque
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::unary_function
--- Stopping ::::unary_function
--- Starting struct ::::binary_function
--- Stopping ::::binary_function
--- Starting struct ::::plus
--- Stopping ::::plus
--- Starting struct ::::minus
--- Stopping ::::minus
--- Starting struct ::::multiplies
--- Stopping ::::multiplies
--- Starting struct ::::divides
--- Stopping ::::divides
--- Starting struct ::::modulus
--- Stopping ::::modulus
--- Starting struct ::::negate
--- Stopping ::::negate
--- Starting struct ::::equal_to
--- Stopping ::::equal_to
--- Starting struct ::::not_equal_to
--- Stopping ::::not_equal_to
--- Starting struct ::::greater
--- Stopping ::::greater
--- Starting struct ::::less
--- Stopping ::::less
--- Starting struct ::::greater_equal
--- Stopping ::::greater_equal
--- Starting struct ::::less_equal
--- Stopping ::::less_equal
--- Starting struct ::::logical_and
--- Stopping ::::logical_and
--- Starting struct ::::logical_or
--- Stopping ::::logical_or
--- Starting struct ::::logical_not
--- Stopping ::::logical_not
--- Starting class ::::unary_negate
--- Stopping ::::unary_negate
--- Starting class ::::binary_negate
--- Stopping ::::binary_negate
--- Starting class ::::binder1st
--- Stopping ::::binder1st
--- Starting class ::::binder2nd
--- Stopping ::::binder2nd
--- Starting class ::::pointer_to_unary_function
--- Stopping ::::pointer_to_unary_function
--- Starting class ::::pointer_to_binary_function
--- Stopping ::::pointer_to_binary_function
--- Starting struct ::::_Identity
--- Stopping ::::_Identity
--- Starting struct ::::_Select1st
--- Stopping ::::_Select1st
--- Starting struct ::::_Select2nd
--- Stopping ::::_Select2nd
--- Starting class ::::mem_fun_t
--- Stopping ::::mem_fun_t
--- Starting class ::::const_mem_fun_t
--- Stopping ::::const_mem_fun_t
--- Starting class ::::mem_fun_ref_t
--- Stopping ::::mem_fun_ref_t
--- Starting class ::::const_mem_fun_ref_t
--- Stopping ::::const_mem_fun_ref_t
--- Starting class ::::mem_fun1_t
--- Stopping ::::mem_fun1_t
--- Starting class ::::const_mem_fun1_t
--- Stopping ::::const_mem_fun1_t
--- Starting class ::::mem_fun1_ref_t
--- Stopping ::::mem_fun1_ref_t
--- Starting class ::::const_mem_fun1_ref_t
--- Stopping ::::const_mem_fun1_ref_t
--- Starting class ::::mem_fun_t
--- Stopping ::::mem_fun_t
--- Starting class ::::const_mem_fun_t
--- Stopping ::::const_mem_fun_t
--- Starting class ::::mem_fun_ref_t
--- Stopping ::::mem_fun_ref_t
--- Starting class ::::const_mem_fun_ref_t
--- Stopping ::::const_mem_fun_ref_t
--- Starting class ::::mem_fun1_t
--- Stopping ::::mem_fun1_t
--- Starting class ::::const_mem_fun1_t
--- Stopping ::::const_mem_fun1_t
--- Starting class ::::mem_fun1_ref_t
--- Stopping ::::mem_fun1_ref_t
--- Starting class ::::const_mem_fun1_ref_t
--- Stopping ::::const_mem_fun1_ref_t
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::type_info
--- Stopping ::::type_info
--- Starting class ::::bad_cast
--- Stopping ::::bad_cast
--- Starting class ::::bad_typeid
--- Stopping ::::bad_typeid
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_Char_types
--- Stopping ::::_Char_types
--- Starting struct ::::char_traits
--- Stopping ::::char_traits
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::char_traits
--- Stopping ::::char_traits
--- Starting struct ::::char_traits
--- Stopping ::::char_traits
--- Starting struct ::::_Char_traits_match
--- Stopping ::::_Char_traits_match
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::raw_storage_iterator
--- Stopping ::::raw_storage_iterator
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::__numeric_limits_base
--- Stopping ::::__numeric_limits_base
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Starting struct ::::numeric_limits
--- Stopping ::::numeric_limits
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::auto_ptr_ref
--- Stopping ::::auto_ptr_ref
--- Starting class ::::auto_ptr
--- Stopping ::::auto_ptr
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_string
--- Starting struct ::::basic_string::_Rep_base
--- Stopping ::::basic_string::_Rep_base
--- Starting struct ::::basic_string::_Rep
--- Stopping ::::basic_string::_Rep
--- Starting struct ::::basic_string::_Alloc_hider
--- Stopping ::::basic_string::_Alloc_hider
--- Stopping ::::basic_string
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::_Temporary_buffer
--- Stopping ::::_Temporary_buffer
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::locale
--- Stopping ::::locale
--- Starting class ::::locale::facet
--- Stopping ::::locale::facet
--- Starting class ::::locale::id
--- Stopping ::::locale::id
--- Starting class ::::locale::_Impl
--- Stopping ::::locale::_Impl
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::ios_base
--- Starting class ::::ios_base::failure
--- Stopping ::::ios_base::failure
--- Starting struct ::::ios_base::_Callback_list
--- Stopping ::::ios_base::_Callback_list
--- Starting struct ::::ios_base::_Words
--- Stopping ::::ios_base::_Words
--- Starting class ::::ios_base::Init
--- Stopping ::::ios_base::Init
--- Stopping ::::ios_base
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_streambuf
--- Stopping ::::basic_streambuf
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::istreambuf_iterator
--- Stopping ::::istreambuf_iterator
--- Starting class ::::ostreambuf_iterator
--- Stopping ::::ostreambuf_iterator
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::__pad
--- Stopping ::::__pad
--- Starting struct ::::ctype_base
--- Stopping ::::ctype_base
--- Starting class ::::__ctype_abstract_base
--- Stopping ::::__ctype_abstract_base
--- Starting class ::::ctype
--- Stopping ::::ctype
--- Starting class ::::ctype
--- Stopping ::::ctype
--- Starting class ::::ctype_byname
--- Stopping ::::ctype_byname
--- Starting class ::::codecvt_base
--- Stopping ::::codecvt_base
--- Starting class ::::__codecvt_abstract_base
--- Stopping ::::__codecvt_abstract_base
--- Starting class ::::codecvt
--- Stopping ::::codecvt
--- Starting class ::::codecvt
--- Stopping ::::codecvt
--- Starting class ::::codecvt_byname
--- Stopping ::::codecvt_byname
--- Starting class ::::__num_base
--- Stopping ::::__num_base
--- Starting struct ::::__numpunct_cache
--- Stopping ::::__numpunct_cache
--- Starting class ::::numpunct
--- Stopping ::::numpunct
--- Starting class ::::numpunct_byname
--- Stopping ::::numpunct_byname
--- Starting class ::::num_get
--- Stopping ::::num_get
--- Starting class ::::num_put
--- Stopping ::::num_put
--- Starting class ::::collate
--- Stopping ::::collate
--- Starting class ::::collate_byname
--- Stopping ::::collate_byname
--- Starting class ::::time_base
--- Stopping ::::time_base
--- Starting struct ::::__timepunct_cache
--- Stopping ::::__timepunct_cache
--- Starting class ::::__timepunct
--- Stopping ::::__timepunct
--- Starting class ::::time_get
--- Stopping ::::time_get
--- Starting class ::::time_get_byname
--- Stopping ::::time_get_byname
--- Starting class ::::time_put
--- Stopping ::::time_put
--- Starting class ::::time_put_byname
--- Stopping ::::time_put_byname
--- Starting class ::::money_base
--- Starting struct ::::money_base::pattern
--- Stopping ::::money_base::pattern
--- Stopping ::::money_base
--- Starting struct ::::__moneypunct_cache
--- Stopping ::::__moneypunct_cache
--- Starting class ::::moneypunct
--- Stopping ::::moneypunct
--- Starting class ::::moneypunct_byname
--- Stopping ::::moneypunct_byname
--- Starting class ::::money_get
--- Stopping ::::money_get
--- Starting class ::::money_put
--- Stopping ::::money_put
--- Starting struct ::::messages_base
--- Stopping ::::messages_base
--- Starting class ::::messages
--- Stopping ::::messages
--- Starting class ::::messages_byname
--- Stopping ::::messages_byname
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_ios
--- Stopping ::::basic_ios
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_ostream
--- Stopping ::::basic_ostream
--- Starting class ::::basic_ostream::sentry
--- Stopping ::::basic_ostream::sentry
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::__use_cache
--- Stopping ::::__use_cache
--- Starting struct ::::__use_cache
--- Stopping ::::__use_cache
--- Starting struct ::::__use_cache
--- Stopping ::::__use_cache
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_istream
--- Stopping ::::basic_istream
--- Starting class ::::basic_istream::sentry
--- Stopping ::::basic_istream::sentry
--- Starting class ::::basic_iostream
--- Stopping ::::basic_iostream
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::istream_iterator
--- Stopping ::::istream_iterator
--- Starting class ::::ostream_iterator
--- Stopping ::::ostream_iterator
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_Vector_base
--- Starting struct ::::_Vector_base::_Vector_impl
--- Stopping ::::_Vector_base::_Vector_impl
--- Stopping ::::_Vector_base
--- Starting class ::::vector
--- Stopping ::::vector
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_Bit_reference
--- Stopping ::::_Bit_reference
--- Starting struct ::::_Bit_iterator_base
--- Stopping ::::_Bit_iterator_base
--- Starting struct ::::_Bit_iterator
--- Stopping ::::_Bit_iterator
--- Starting struct ::::_Bit_const_iterator
--- Stopping ::::_Bit_const_iterator
--- Starting class ::::_Bvector_base
--- Starting struct ::::_Bvector_base::_Bvector_impl
--- Stopping ::::_Bvector_base::_Bvector_impl
--- Stopping ::::_Bvector_base
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::vector
--- Stopping ::::vector
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_List_node_base
--- Stopping ::::_List_node_base
--- Starting struct ::::_List_node
--- Stopping ::::_List_node
--- Starting struct ::::_List_iterator
--- Stopping ::::_List_iterator
--- Starting struct ::::_List_const_iterator
--- Stopping ::::_List_const_iterator
--- Starting class ::::_List_base
--- Starting struct ::::_List_base::_List_impl
--- Stopping ::::_List_base::_List_impl
--- Stopping ::::_List_base
--- Starting class ::::list
--- Stopping ::::list
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_Resetiosflags
--- Stopping ::::_Resetiosflags
--- Starting struct ::::_Setiosflags
--- Stopping ::::_Setiosflags
--- Starting struct ::::_Setbase
--- Stopping ::::_Setbase
--- Starting struct ::::_Setfill
--- Stopping ::::_Setfill
--- Starting struct ::::_Setprecision
--- Stopping ::::_Setprecision
--- Starting struct ::::_Setw
--- Stopping ::::_Setw
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::__basic_file
--- Stopping ::::__basic_file
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_filebuf
--- Stopping ::::basic_filebuf
--- Starting class ::::basic_ifstream
--- Stopping ::::basic_ifstream
--- Starting class ::::basic_ofstream
--- Stopping ::::basic_ofstream
--- Starting class ::::basic_fstream
--- Stopping ::::basic_fstream
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::_Rb_tree_node_base
--- Stopping ::::_Rb_tree_node_base
--- Starting struct ::::_Rb_tree_node
--- Stopping ::::_Rb_tree_node
--- Starting struct ::::_Rb_tree_iterator
--- Stopping ::::_Rb_tree_iterator
--- Starting struct ::::_Rb_tree_const_iterator
--- Stopping ::::_Rb_tree_const_iterator
--- Starting class ::::_Rb_tree
--- Starting struct ::::_Rb_tree::_Rb_tree_impl
--- Stopping ::::_Rb_tree::_Rb_tree_impl
--- Starting struct ::::_Rb_tree::_Rb_tree_impl
--- Stopping ::::_Rb_tree::_Rb_tree_impl
--- Stopping ::::_Rb_tree
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::set
--- Stopping ::::set
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::multiset
--- Stopping ::::multiset
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::map
--- Starting class ::::map::value_compare
--- Stopping ::::map::value_compare
--- Stopping ::::map
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::multimap
--- Starting class ::::multimap::value_compare
--- Stopping ::::multimap::value_compare
--- Stopping ::::multimap
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::queue
--- Stopping ::::queue
--- Starting class ::::priority_queue
--- Stopping ::::priority_queue
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::stack
--- Stopping ::::stack
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::logic_error
--- Stopping ::::logic_error
--- Starting class ::::domain_error
--- Stopping ::::domain_error
--- Starting class ::::invalid_argument
--- Stopping ::::invalid_argument
--- Starting class ::::length_error
--- Stopping ::::length_error
--- Starting class ::::out_of_range
--- Stopping ::::out_of_range
--- Starting class ::::runtime_error
--- Stopping ::::runtime_error
--- Starting class ::::range_error
--- Stopping ::::range_error
--- Starting class ::::overflow_error
--- Stopping ::::overflow_error
--- Starting class ::::underflow_error
--- Stopping ::::underflow_error
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::basic_stringbuf
--- Stopping ::::basic_stringbuf
--- Starting class ::::basic_istringstream
--- Stopping ::::basic_istringstream
--- Starting class ::::basic_ostringstream
--- Stopping ::::basic_ostringstream
--- Starting class ::::basic_stringstream
--- Stopping ::::basic_stringstream
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::CommonIO
--- Stopping ::::CommonIO
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Starting namespace ::::::
--- Stopping ::::::
--- Stopping ::::
--- Starting class ::::bad_any_cast
--- Stopping ::::bad_any_cast
--- Starting class ::::bad_any_typeid
--- Stopping ::::bad_any_typeid
--- Starting class ::::not_comparable
--- Stopping ::::not_comparable
--- Starting class ::::Any
--- Starting class ::::Any::Comparator
--- Stopping ::::Any::Comparator
--- Starting class ::::Any::NotComparable
--- Stopping ::::Any::NotComparable
--- Starting struct ::::Any::ContainerBase
--- Stopping ::::Any::ContainerBase
--- Starting struct ::::Any::ReferenceContainer
--- Stopping ::::Any::ReferenceContainer
--- Starting struct ::::Any::Container
--- Stopping ::::Any::Container
--- Stopping ::::Any
--- Starting class ::::AnyRef
--- Stopping ::::AnyRef
--- Starting class ::::AnyFixedRef
--- Stopping ::::AnyFixedRef
--- Stopping ::
+-- Starting namespace ::std
+-- Starting struct ::std::input_iterator_tag
+-- Stopping ::std::input_iterator_tag
+-- Starting struct ::std::output_iterator_tag
+-- Stopping ::std::output_iterator_tag
+-- Starting struct ::std::forward_iterator_tag
+-- Stopping ::std::forward_iterator_tag
+-- Starting struct ::std::bidirectional_iterator_tag
+-- Stopping ::std::bidirectional_iterator_tag
+-- Starting struct ::std::random_access_iterator_tag
+-- Stopping ::std::random_access_iterator_tag
+-- Starting struct ::std::iterator
+-- Stopping ::std::iterator
+-- Starting struct ::std::iterator_traits
+-- Stopping ::std::iterator_traits
+-- Starting struct ::std::iterator_traits
+-- Stopping ::std::iterator_traits
+-- Starting struct ::std::iterator_traits
+-- Stopping ::std::iterator_traits
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::reverse_iterator
+-- Stopping ::std::reverse_iterator
+-- Starting class ::std::back_insert_iterator
+-- Stopping ::std::back_insert_iterator
+-- Starting class ::std::front_insert_iterator
+-- Stopping ::std::front_insert_iterator
+-- Starting class ::std::insert_iterator
+-- Stopping ::std::insert_iterator
+-- Stopping ::std
+-- Starting namespace ::__gnu_cxx
+-- Starting class ::__gnu_cxx::__normal_iterator
+-- Stopping ::__gnu_cxx::__normal_iterator
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::__gnu_debug
+-- Stopping ::__gnu_debug
+-- Starting namespace ::std
+-- Starting struct ::std::__copy_backward_dispatch
+-- Stopping ::std::__copy_backward_dispatch
+-- Starting struct ::std::__copy_backward_dispatch
+-- Stopping ::std::__copy_backward_dispatch
+-- Starting struct ::std::__copy_backward_dispatch
+-- Stopping ::std::__copy_backward_dispatch
+-- Stopping ::std
+-- Starting namespace ::__gnu_cxx
+-- Starting class ::__gnu_cxx::new_allocator
+-- Starting struct ::__gnu_cxx::new_allocator::rebind
+-- Stopping ::__gnu_cxx::new_allocator::rebind
+-- Stopping ::__gnu_cxx::new_allocator
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::std
+-- Starting class ::std::allocator
+-- Starting struct ::std::allocator::rebind
+-- Stopping ::std::allocator::rebind
+-- Stopping ::std::allocator
+-- Starting class ::std::allocator
+-- Starting struct ::std::allocator::rebind
+-- Stopping ::std::allocator::rebind
+-- Stopping ::std::allocator
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::_Deque_iterator
+-- Stopping ::std::_Deque_iterator
+-- Starting class ::std::_Deque_base
+-- Starting struct ::std::_Deque_base::_Deque_impl
+-- Stopping ::std::_Deque_base::_Deque_impl
+-- Stopping ::std::_Deque_base
+-- Starting class ::std::deque
+-- Stopping ::std::deque
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::unary_function
+-- Stopping ::std::unary_function
+-- Starting struct ::std::binary_function
+-- Stopping ::std::binary_function
+-- Starting struct ::std::plus
+-- Stopping ::std::plus
+-- Starting struct ::std::minus
+-- Stopping ::std::minus
+-- Starting struct ::std::multiplies
+-- Stopping ::std::multiplies
+-- Starting struct ::std::divides
+-- Stopping ::std::divides
+-- Starting struct ::std::modulus
+-- Stopping ::std::modulus
+-- Starting struct ::std::negate
+-- Stopping ::std::negate
+-- Starting struct ::std::equal_to
+-- Stopping ::std::equal_to
+-- Starting struct ::std::not_equal_to
+-- Stopping ::std::not_equal_to
+-- Starting struct ::std::greater
+-- Stopping ::std::greater
+-- Starting struct ::std::less
+-- Stopping ::std::less
+-- Starting struct ::std::greater_equal
+-- Stopping ::std::greater_equal
+-- Starting struct ::std::less_equal
+-- Stopping ::std::less_equal
+-- Starting struct ::std::logical_and
+-- Stopping ::std::logical_and
+-- Starting struct ::std::logical_or
+-- Stopping ::std::logical_or
+-- Starting struct ::std::logical_not
+-- Stopping ::std::logical_not
+-- Starting class ::std::unary_negate
+-- Stopping ::std::unary_negate
+-- Starting class ::std::binary_negate
+-- Stopping ::std::binary_negate
+-- Starting class ::std::binder1st
+-- Stopping ::std::binder1st
+-- Starting class ::std::binder2nd
+-- Stopping ::std::binder2nd
+-- Starting class ::std::pointer_to_unary_function
+-- Stopping ::std::pointer_to_unary_function
+-- Starting class ::std::pointer_to_binary_function
+-- Stopping ::std::pointer_to_binary_function
+-- Starting struct ::std::_Identity
+-- Stopping ::std::_Identity
+-- Starting struct ::std::_Select1st
+-- Stopping ::std::_Select1st
+-- Starting struct ::std::_Select2nd
+-- Stopping ::std::_Select2nd
+-- Starting class ::std::mem_fun_t
+-- Stopping ::std::mem_fun_t
+-- Starting class ::std::const_mem_fun_t
+-- Stopping ::std::const_mem_fun_t
+-- Starting class ::std::mem_fun_ref_t
+-- Stopping ::std::mem_fun_ref_t
+-- Starting class ::std::const_mem_fun_ref_t
+-- Stopping ::std::const_mem_fun_ref_t
+-- Starting class ::std::mem_fun1_t
+-- Stopping ::std::mem_fun1_t
+-- Starting class ::std::const_mem_fun1_t
+-- Stopping ::std::const_mem_fun1_t
+-- Starting class ::std::mem_fun1_ref_t
+-- Stopping ::std::mem_fun1_ref_t
+-- Starting class ::std::const_mem_fun1_ref_t
+-- Stopping ::std::const_mem_fun1_ref_t
+-- Starting class ::std::mem_fun_t
+-- Stopping ::std::mem_fun_t
+-- Starting class ::std::const_mem_fun_t
+-- Stopping ::std::const_mem_fun_t
+-- Starting class ::std::mem_fun_ref_t
+-- Stopping ::std::mem_fun_ref_t
+-- Starting class ::std::const_mem_fun_ref_t
+-- Stopping ::std::const_mem_fun_ref_t
+-- Starting class ::std::mem_fun1_t
+-- Stopping ::std::mem_fun1_t
+-- Starting class ::std::const_mem_fun1_t
+-- Stopping ::std::const_mem_fun1_t
+-- Starting class ::std::mem_fun1_ref_t
+-- Stopping ::std::mem_fun1_ref_t
+-- Starting class ::std::const_mem_fun1_ref_t
+-- Stopping ::std::const_mem_fun1_ref_t
+-- Stopping ::std
+-- Starting namespace ::__cxxabiv1
+-- Stopping ::__cxxabiv1
+-- Starting namespace ::std
+-- Starting class ::std::type_info
+-- Stopping ::std::type_info
+-- Starting class ::std::bad_cast
+-- Stopping ::std::bad_cast
+-- Starting class ::std::bad_typeid
+-- Stopping ::std::bad_typeid
+-- Stopping ::std
+-- Starting namespace ::__gnu_cxx
+-- Starting struct ::__gnu_cxx::_Char_types
+-- Stopping ::__gnu_cxx::_Char_types
+-- Starting struct ::__gnu_cxx::char_traits
+-- Stopping ::__gnu_cxx::char_traits
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::std
+-- Starting struct ::std::char_traits
+-- Stopping ::std::char_traits
+-- Starting struct ::std::char_traits
+-- Stopping ::std::char_traits
+-- Starting struct ::std::_Char_traits_match
+-- Stopping ::std::_Char_traits_match
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::__gnu_cxx
+-- Stopping ::__gnu_cxx
+-- Starting namespace ::std
+-- Starting class ::std::raw_storage_iterator
+-- Stopping ::std::raw_storage_iterator
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::__numeric_limits_base
+-- Stopping ::std::__numeric_limits_base
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Starting struct ::std::numeric_limits
+-- Stopping ::std::numeric_limits
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::auto_ptr_ref
+-- Stopping ::std::auto_ptr_ref
+-- Starting class ::std::auto_ptr
+-- Stopping ::std::auto_ptr
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_string
+-- Starting struct ::std::basic_string::_Rep_base
+-- Stopping ::std::basic_string::_Rep_base
+-- Starting struct ::std::basic_string::_Rep
+-- Stopping ::std::basic_string::_Rep
+-- Starting struct ::std::basic_string::_Alloc_hider
+-- Stopping ::std::basic_string::_Alloc_hider
+-- Stopping ::std::basic_string
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::_Temporary_buffer
+-- Stopping ::std::_Temporary_buffer
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::locale
+-- Stopping ::std::locale
+-- Starting class ::std::locale::facet
+-- Stopping ::std::locale::facet
+-- Starting class ::std::locale::id
+-- Stopping ::std::locale::id
+-- Starting class ::std::locale::_Impl
+-- Stopping ::std::locale::_Impl
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::ios_base
+-- Starting class ::std::ios_base::failure
+-- Stopping ::std::ios_base::failure
+-- Starting struct ::std::ios_base::_Callback_list
+-- Stopping ::std::ios_base::_Callback_list
+-- Starting struct ::std::ios_base::_Words
+-- Stopping ::std::ios_base::_Words
+-- Starting class ::std::ios_base::Init
+-- Stopping ::std::ios_base::Init
+-- Stopping ::std::ios_base
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_streambuf
+-- Stopping ::std::basic_streambuf
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::istreambuf_iterator
+-- Stopping ::std::istreambuf_iterator
+-- Starting class ::std::ostreambuf_iterator
+-- Stopping ::std::ostreambuf_iterator
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::__pad
+-- Stopping ::std::__pad
+-- Starting struct ::std::ctype_base
+-- Stopping ::std::ctype_base
+-- Starting class ::std::__ctype_abstract_base
+-- Stopping ::std::__ctype_abstract_base
+-- Starting class ::std::ctype
+-- Stopping ::std::ctype
+-- Starting class ::std::ctype
+-- Stopping ::std::ctype
+-- Starting class ::std::ctype_byname
+-- Stopping ::std::ctype_byname
+-- Starting class ::std::codecvt_base
+-- Stopping ::std::codecvt_base
+-- Starting class ::std::__codecvt_abstract_base
+-- Stopping ::std::__codecvt_abstract_base
+-- Starting class ::std::codecvt
+-- Stopping ::std::codecvt
+-- Starting class ::std::codecvt
+-- Stopping ::std::codecvt
+-- Starting class ::std::codecvt_byname
+-- Stopping ::std::codecvt_byname
+-- Starting class ::std::__num_base
+-- Stopping ::std::__num_base
+-- Starting struct ::std::__numpunct_cache
+-- Stopping ::std::__numpunct_cache
+-- Starting class ::std::numpunct
+-- Stopping ::std::numpunct
+-- Starting class ::std::numpunct_byname
+-- Stopping ::std::numpunct_byname
+-- Starting class ::std::num_get
+-- Stopping ::std::num_get
+-- Starting class ::std::num_put
+-- Stopping ::std::num_put
+-- Starting class ::std::collate
+-- Stopping ::std::collate
+-- Starting class ::std::collate_byname
+-- Stopping ::std::collate_byname
+-- Starting class ::std::time_base
+-- Stopping ::std::time_base
+-- Starting struct ::std::__timepunct_cache
+-- Stopping ::std::__timepunct_cache
+-- Starting class ::std::__timepunct
+-- Stopping ::std::__timepunct
+-- Starting class ::std::time_get
+-- Stopping ::std::time_get
+-- Starting class ::std::time_get_byname
+-- Stopping ::std::time_get_byname
+-- Starting class ::std::time_put
+-- Stopping ::std::time_put
+-- Starting class ::std::time_put_byname
+-- Stopping ::std::time_put_byname
+-- Starting class ::std::money_base
+-- Starting struct ::std::money_base::pattern
+-- Stopping ::std::money_base::pattern
+-- Stopping ::std::money_base
+-- Starting struct ::std::__moneypunct_cache
+-- Stopping ::std::__moneypunct_cache
+-- Starting class ::std::moneypunct
+-- Stopping ::std::moneypunct
+-- Starting class ::std::moneypunct_byname
+-- Stopping ::std::moneypunct_byname
+-- Starting class ::std::money_get
+-- Stopping ::std::money_get
+-- Starting class ::std::money_put
+-- Stopping ::std::money_put
+-- Starting struct ::std::messages_base
+-- Stopping ::std::messages_base
+-- Starting class ::std::messages
+-- Stopping ::std::messages
+-- Starting class ::std::messages_byname
+-- Stopping ::std::messages_byname
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_ios
+-- Stopping ::std::basic_ios
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_ostream
+-- Stopping ::std::basic_ostream
+-- Starting class ::std::basic_ostream::sentry
+-- Stopping ::std::basic_ostream::sentry
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::__use_cache
+-- Stopping ::std::__use_cache
+-- Starting struct ::std::__use_cache
+-- Stopping ::std::__use_cache
+-- Starting struct ::std::__use_cache
+-- Stopping ::std::__use_cache
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_istream
+-- Stopping ::std::basic_istream
+-- Starting class ::std::basic_istream::sentry
+-- Stopping ::std::basic_istream::sentry
+-- Starting class ::std::basic_iostream
+-- Stopping ::std::basic_iostream
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::istream_iterator
+-- Stopping ::std::istream_iterator
+-- Starting class ::std::ostream_iterator
+-- Stopping ::std::ostream_iterator
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::_Vector_base
+-- Starting struct ::std::_Vector_base::_Vector_impl
+-- Stopping ::std::_Vector_base::_Vector_impl
+-- Stopping ::std::_Vector_base
+-- Starting class ::std::vector
+-- Stopping ::std::vector
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::_Bit_reference
+-- Stopping ::std::_Bit_reference
+-- Starting struct ::std::_Bit_iterator_base
+-- Stopping ::std::_Bit_iterator_base
+-- Starting struct ::std::_Bit_iterator
+-- Stopping ::std::_Bit_iterator
+-- Starting struct ::std::_Bit_const_iterator
+-- Stopping ::std::_Bit_const_iterator
+-- Starting class ::std::_Bvector_base
+-- Starting struct ::std::_Bvector_base::_Bvector_impl
+-- Stopping ::std::_Bvector_base::_Bvector_impl
+-- Stopping ::std::_Bvector_base
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::vector
+-- Stopping ::std::vector
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::_List_node_base
+-- Stopping ::std::_List_node_base
+-- Starting struct ::std::_List_node
+-- Stopping ::std::_List_node
+-- Starting struct ::std::_List_iterator
+-- Stopping ::std::_List_iterator
+-- Starting struct ::std::_List_const_iterator
+-- Stopping ::std::_List_const_iterator
+-- Starting class ::std::_List_base
+-- Starting struct ::std::_List_base::_List_impl
+-- Stopping ::std::_List_base::_List_impl
+-- Stopping ::std::_List_base
+-- Starting class ::std::list
+-- Stopping ::std::list
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::_Resetiosflags
+-- Stopping ::std::_Resetiosflags
+-- Starting struct ::std::_Setiosflags
+-- Stopping ::std::_Setiosflags
+-- Starting struct ::std::_Setbase
+-- Stopping ::std::_Setbase
+-- Starting struct ::std::_Setfill
+-- Stopping ::std::_Setfill
+-- Starting struct ::std::_Setprecision
+-- Stopping ::std::_Setprecision
+-- Starting struct ::std::_Setw
+-- Stopping ::std::_Setw
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::__basic_file
+-- Stopping ::std::__basic_file
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_filebuf
+-- Stopping ::std::basic_filebuf
+-- Starting class ::std::basic_ifstream
+-- Stopping ::std::basic_ifstream
+-- Starting class ::std::basic_ofstream
+-- Stopping ::std::basic_ofstream
+-- Starting class ::std::basic_fstream
+-- Stopping ::std::basic_fstream
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::_Rb_tree_node_base
+-- Stopping ::std::_Rb_tree_node_base
+-- Starting struct ::std::_Rb_tree_node
+-- Stopping ::std::_Rb_tree_node
+-- Starting struct ::std::_Rb_tree_iterator
+-- Stopping ::std::_Rb_tree_iterator
+-- Starting struct ::std::_Rb_tree_const_iterator
+-- Stopping ::std::_Rb_tree_const_iterator
+-- Starting class ::std::_Rb_tree
+-- Starting struct ::std::_Rb_tree::_Rb_tree_impl
+-- Stopping ::std::_Rb_tree::_Rb_tree_impl
+-- Starting struct ::std::_Rb_tree::_Rb_tree_impl
+-- Stopping ::std::_Rb_tree::_Rb_tree_impl
+-- Stopping ::std::_Rb_tree
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::set
+-- Stopping ::std::set
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::multiset
+-- Stopping ::std::multiset
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::map
+-- Starting class ::std::map::value_compare
+-- Stopping ::std::map::value_compare
+-- Stopping ::std::map
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::multimap
+-- Starting class ::std::multimap::value_compare
+-- Stopping ::std::multimap::value_compare
+-- Stopping ::std::multimap
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::queue
+-- Stopping ::std::queue
+-- Starting class ::std::priority_queue
+-- Stopping ::std::priority_queue
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::stack
+-- Stopping ::std::stack
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::logic_error
+-- Stopping ::std::logic_error
+-- Starting class ::std::domain_error
+-- Stopping ::std::domain_error
+-- Starting class ::std::invalid_argument
+-- Stopping ::std::invalid_argument
+-- Starting class ::std::length_error
+-- Stopping ::std::length_error
+-- Starting class ::std::out_of_range
+-- Stopping ::std::out_of_range
+-- Starting class ::std::runtime_error
+-- Stopping ::std::runtime_error
+-- Starting class ::std::range_error
+-- Stopping ::std::range_error
+-- Starting class ::std::overflow_error
+-- Stopping ::std::overflow_error
+-- Starting class ::std::underflow_error
+-- Stopping ::std::underflow_error
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::basic_stringbuf
+-- Stopping ::std::basic_stringbuf
+-- Starting class ::std::basic_istringstream
+-- Stopping ::std::basic_istringstream
+-- Starting class ::std::basic_ostringstream
+-- Stopping ::std::basic_ostringstream
+-- Starting class ::std::basic_stringstream
+-- Stopping ::std::basic_stringstream
+-- Stopping ::std
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::utilib
+-- Stopping ::utilib
+-- Starting namespace ::utilib
+-- Starting class ::utilib::CommonIO
+-- Stopping ::utilib::CommonIO
+-- Stopping ::utilib
+-- Starting namespace ::utilib
+-- Starting namespace ::utilib::exception_mngr
+-- Stopping ::utilib::exception_mngr
+-- Stopping ::utilib
+-- Starting namespace ::utilib
+-- Starting namespace ::utilib::error
+-- Starting namespace ::utilib::error::Any
+-- Stopping ::utilib::error::Any
+-- Stopping ::utilib::error
+-- Starting class ::utilib::bad_any_cast
+-- Stopping ::utilib::bad_any_cast
+-- Starting class ::utilib::bad_any_typeid
+-- Stopping ::utilib::bad_any_typeid
+-- Starting class ::utilib::not_comparable
+-- Stopping ::utilib::not_comparable
+-- Starting class ::utilib::Any
+-- Starting class ::utilib::Any::Comparator
+-- Stopping ::utilib::Any::Comparator
+-- Starting class ::utilib::Any::NotComparable
+-- Stopping ::utilib::Any::NotComparable
+-- Starting struct ::utilib::Any::ContainerBase
+-- Stopping ::utilib::Any::ContainerBase
+-- Starting struct ::utilib::Any::ReferenceContainer
+-- Stopping ::utilib::Any::ReferenceContainer
+-- Starting struct ::utilib::Any::Container
+-- Stopping ::utilib::Any::Container
+-- Stopping ::utilib::Any
+-- Starting class ::utilib::AnyRef
+-- Stopping ::utilib::AnyRef
+-- Starting class ::utilib::AnyFixedRef
+-- Stopping ::utilib::AnyFixedRef
+-- Stopping ::utilib

@@ -1,7 +1,7 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::A
+-- Stopping ::A
+-- Starting namespace ::A1
+-- Stopping ::A1
 -- Starting class ::B
 -- Stopping ::B
 -- Starting class ::X

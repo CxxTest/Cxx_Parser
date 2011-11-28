@@ -1,26 +1,26 @@
--- Starting namespace ::
--- Starting struct ::::B
--- Stopping ::::B
--- Starting namespace ::::
--- Starting struct ::::::A
--- Stopping ::::::A
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Starting struct ::::::A
--- Stopping ::::::A
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Starting struct ::::::A
--- Stopping ::::::A
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Starting struct ::::::A
--- Stopping ::::::A
--- Stopping ::::
--- Stopping ::
+-- Starting namespace ::N1
+-- Starting struct ::N1::B
+-- Stopping ::N1::B
+-- Starting namespace ::N1::M
+-- Starting struct ::N1::M::A
+-- Stopping ::N1::M::A
+-- Stopping ::N1::M
+-- Stopping ::N1
+-- Starting namespace ::N2
+-- Starting namespace ::N2::M
+-- Starting struct ::N2::M::A
+-- Stopping ::N2::M::A
+-- Stopping ::N2::M
+-- Stopping ::N2
+-- Starting namespace ::N3
+-- Starting namespace ::N3::M
+-- Starting struct ::N3::M::A
+-- Stopping ::N3::M::A
+-- Stopping ::N3::M
+-- Stopping ::N3
+-- Starting namespace ::N4
+-- Starting namespace ::N4::M
+-- Starting struct ::N4::M::A
+-- Stopping ::N4::M::A
+-- Stopping ::N4::M
+-- Stopping ::N4

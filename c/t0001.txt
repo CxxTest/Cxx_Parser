@@ -1,0 +1,15 @@
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0002.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0003.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0004.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0005.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0006.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0007.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0008.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0009.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0010.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0011.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0012.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0013.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0014.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0015.out
+HERE /Users/wehart/home/mac/src/cxx_tests/c/t0016.out

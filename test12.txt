@@ -2,20 +2,20 @@
 -- Function declaration testy  ::testy
 -- Function declaration test  ::test
 -- Function declaration _test_  ::_test_
--- Starting namespace ::
--- Function declaration xtest  ::::xtest
--- Function declaration testy  ::::testy
--- Function declaration test  ::::test
--- Function declaration _test_  ::::_test_
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Function declaration xtest  ::::::xtest
--- Function declaration testy  ::::::testy
--- Function declaration test  ::::::test
--- Function declaration _test_  ::::::_test_
--- Stopping ::::
--- Stopping ::
+-- Starting namespace ::cxxtest
+-- Function declaration xtest  ::cxxtest::xtest
+-- Function declaration testy  ::cxxtest::testy
+-- Function declaration test  ::cxxtest::test
+-- Function declaration _test_  ::cxxtest::_test_
+-- Stopping ::cxxtest
+-- Starting namespace ::A
+-- Starting namespace ::A::cxxtest
+-- Function declaration xtest  ::A::cxxtest::xtest
+-- Function declaration testy  ::A::cxxtest::testy
+-- Function declaration test  ::A::cxxtest::test
+-- Function declaration _test_  ::A::cxxtest::_test_
+-- Stopping ::A::cxxtest
+-- Stopping ::A
 -- Starting class ::cxxtest
 -- Function declaration _xtest  ::cxxtest::_xtest
 -- Function declaration _testy  ::cxxtest::_testy

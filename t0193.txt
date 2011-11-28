@@ -1,8 +1,8 @@
--- Starting namespace ::
--- Starting struct ::::iterator
--- Stopping ::::iterator
--- Starting struct ::::iterator_traits
--- Stopping ::::iterator_traits
--- Stopping ::
+-- Starting namespace ::std
+-- Starting struct ::std::iterator
+-- Stopping ::std::iterator
+-- Starting struct ::std::iterator_traits
+-- Stopping ::std::iterator_traits
+-- Stopping ::std
 -- Starting class ::__normal_iterator
 -- Stopping ::__normal_iterator

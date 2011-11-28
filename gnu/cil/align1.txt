@@ -1,1 +1,4 @@
 -- Starting struct ::testalign
+-- Stopping ::testalign
+-- Starting struct ::t1
+-- Stopping ::t1

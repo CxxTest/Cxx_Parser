@@ -1,9 +1,9 @@
 -- Starting class ::C
 -- Stopping ::C
--- Starting namespace ::
--- Starting class ::::Foo
--- Stopping ::::Foo
--- Stopping ::
+-- Starting namespace ::N
+-- Starting class ::N::Foo
+-- Stopping ::N::Foo
+-- Stopping ::N
 -- Starting struct ::A
 -- Stopping ::A
 -- Starting class ::QCollection

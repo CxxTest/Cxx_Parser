@@ -11,6 +11,7 @@ __typeof(foo) afun;
 void afun() {}
 
 void bfun(void);  
+void cfun __attribute__ ((alias ("afun")));  
 extern __typeof(afun) bfun __attribute__ ((alias ("afun")));  
 
 int arr[9];

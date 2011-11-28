@@ -15,3 +15,36 @@
 -- Starting struct ::i387_fsave_struct
 -- Stopping ::i387_fsave_struct
 -- Starting struct ::i387_fxsave_struct
+-- Stopping ::i387_fxsave_struct
+-- Starting struct ::i387_soft_struct
+-- Stopping ::i387_soft_struct
+-- Starting union ::i387_union
+-- Stopping ::i387_union
+-- Starting struct ::thread_struct
+-- Stopping ::thread_struct
+-- Starting struct ::rlimit
+-- Stopping ::rlimit
+-- Starting union ::sigval
+-- Stopping ::sigval
+-- Starting struct ::siginfo
+-- Starting union ::siginfo::
+-- Starting struct ::siginfo::::
+-- Stopping ::siginfo::::
+-- Starting struct ::siginfo::::
+-- Stopping ::siginfo::::
+-- Starting struct ::siginfo::::
+-- Stopping ::siginfo::::
+-- Starting struct ::siginfo::::
+-- Stopping ::siginfo::::
+-- Starting struct ::siginfo::::
+-- Stopping ::siginfo::::
+-- Starting struct ::siginfo::::
+-- Stopping ::siginfo::::
+-- Stopping ::siginfo::
+-- Stopping ::siginfo
+-- Starting struct ::sigpending
+-- Stopping ::sigpending
+-- Starting struct ::sigqueue
+-- Stopping ::sigqueue
+-- Starting struct ::task_struct
+-- Stopping ::task_struct

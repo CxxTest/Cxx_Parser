@@ -1,4 +1,4 @@
--- Starting namespace ::
--- Starting namespace ::::
--- Stopping ::::
--- Stopping ::
+-- Starting namespace ::Outer
+-- Starting namespace ::Outer::Inner
+-- Stopping ::Outer::Inner
+-- Stopping ::Outer

@@ -1,6 +1,6 @@
--- Starting namespace ::
--- Starting struct ::::A
--- Stopping ::::A
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::N1
+-- Starting struct ::N1::A
+-- Stopping ::N1::A
+-- Stopping ::N1
+-- Starting namespace ::N2
+-- Stopping ::N2

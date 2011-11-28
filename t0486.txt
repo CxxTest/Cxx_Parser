@@ -2,13 +2,13 @@
 -- Stopping ::B
 -- Starting struct ::A
 -- Stopping ::A
--- Starting namespace ::
--- Starting struct ::::B
--- Stopping ::::B
--- Starting struct ::::A
--- Stopping ::::A
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::C
--- Stopping ::::C
--- Stopping ::
+-- Starting namespace ::Blah
+-- Starting struct ::Blah::B
+-- Stopping ::Blah::B
+-- Starting struct ::Blah::A
+-- Stopping ::Blah::A
+-- Stopping ::Blah
+-- Starting namespace ::Whatever
+-- Starting struct ::Whatever::C
+-- Stopping ::Whatever::C
+-- Stopping ::Whatever

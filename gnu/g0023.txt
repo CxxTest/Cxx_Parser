@@ -1,4 +1,4 @@
--- Starting namespace ::
--- Starting class ::::bad_alloc
--- Stopping ::::bad_alloc
--- Stopping ::
+-- Starting namespace ::std
+-- Starting class ::std::bad_alloc
+-- Stopping ::std::bad_alloc
+-- Stopping ::std

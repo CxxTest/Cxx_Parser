@@ -1,8 +1,8 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Starting namespace ::::::
--- Stopping ::::::
--- Stopping ::::
--- Stopping ::
+-- Starting namespace ::A
+-- Stopping ::A
+-- Starting namespace ::B
+-- Starting namespace ::B::C
+-- Starting namespace ::B::C::D
+-- Stopping ::B::C::D
+-- Stopping ::B::C
+-- Stopping ::B

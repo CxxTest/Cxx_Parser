@@ -1,16 +1,16 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::locale
--- Stopping ::::locale
--- Starting class ::::locale::facet
--- Stopping ::::locale::facet
--- Starting class ::::ios_base
--- Stopping ::::ios_base
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::__pad
--- Stopping ::::__pad
--- Starting class ::::num_put
--- Stopping ::::num_put
--- Stopping ::
+-- Starting namespace ::std
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting class ::std::locale
+-- Stopping ::std::locale
+-- Starting class ::std::locale::facet
+-- Stopping ::std::locale::facet
+-- Starting class ::std::ios_base
+-- Stopping ::std::ios_base
+-- Stopping ::std
+-- Starting namespace ::std
+-- Starting struct ::std::__pad
+-- Stopping ::std::__pad
+-- Starting class ::std::num_put
+-- Stopping ::std::num_put
+-- Stopping ::std

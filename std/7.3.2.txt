@@ -1,2 +1,2 @@
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::Company_with_very_long_name
+-- Stopping ::Company_with_very_long_name

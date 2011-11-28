@@ -1,1 +1,2 @@
--- Starting namespace ::
+-- Starting namespace ::__gnu_cxx
+-- Stopping ::__gnu_cxx

@@ -1,8 +1,8 @@
--- Starting namespace ::
--- Starting class ::::Foo
--- Starting class ::::Foo::Another
--- Stopping ::::Foo::Another
--- Starting class ::::Foo::Bar
--- Stopping ::::Foo::Bar
--- Stopping ::::Foo
--- Stopping ::
+-- Starting namespace ::N
+-- Starting class ::N::Foo
+-- Starting class ::N::Foo::Another
+-- Stopping ::N::Foo::Another
+-- Starting class ::N::Foo::Bar
+-- Stopping ::N::Foo::Bar
+-- Stopping ::N::Foo
+-- Stopping ::N

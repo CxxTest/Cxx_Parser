@@ -1,14 +1,14 @@
 -- Starting struct ::S
 -- Stopping ::S
--- Starting namespace ::
--- Starting struct ::::S
--- Stopping ::::S
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::S
--- Stopping ::::S
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::S
--- Stopping ::::S
--- Stopping ::
+-- Starting namespace ::N
+-- Starting struct ::N::S
+-- Stopping ::N::S
+-- Stopping ::N
+-- Starting namespace ::N2
+-- Starting struct ::N2::S
+-- Stopping ::N2::S
+-- Stopping ::N2
+-- Starting namespace ::N3
+-- Starting struct ::N3::S
+-- Stopping ::N3::S
+-- Stopping ::N3

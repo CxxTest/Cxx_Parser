@@ -1,8 +1,8 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting struct ::::g
--- Stopping ::::g
--- Starting struct ::::x
--- Stopping ::::x
--- Stopping ::
+-- Starting namespace ::A
+-- Stopping ::A
+-- Starting namespace ::B
+-- Starting struct ::B::g
+-- Stopping ::B::g
+-- Starting struct ::B::x
+-- Stopping ::B::x
+-- Stopping ::B

@@ -2,23 +2,23 @@
 -- Stopping ::Visible
 -- Starting class ::Hidden
 -- Stopping ::Hidden
--- Starting namespace ::
--- Starting namespace ::::
--- Starting struct ::::::C
--- Starting struct ::::::C::D
--- Stopping ::::::C::D
--- Stopping ::::::C
--- Starting struct ::::::C::E
--- Stopping ::::::C::E
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Starting namespace ::::
--- Stopping ::::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::A
+-- Starting namespace ::A::B
+-- Starting struct ::A::B::C
+-- Starting struct ::A::B::C::D
+-- Stopping ::A::B::C::D
+-- Stopping ::A::B::C
+-- Starting struct ::A::B::C::E
+-- Stopping ::A::B::C::E
+-- Stopping ::A::B
+-- Stopping ::A
+-- Starting namespace ::A
+-- Stopping ::A
+-- Starting namespace ::A
+-- Stopping ::A
+-- Starting namespace ::A
+-- Starting namespace ::A::B
+-- Stopping ::A::B
+-- Stopping ::A
+-- Starting namespace ::Q
+-- Stopping ::Q

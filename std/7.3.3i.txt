@@ -1,4 +1,4 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::B
+-- Stopping ::B
+-- Starting namespace ::C
+-- Stopping ::C

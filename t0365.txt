@@ -1,6 +1,6 @@
--- Starting namespace ::
--- Starting class ::::A
--- Stopping ::::A
--- Starting class ::::B
--- Stopping ::::B
--- Stopping ::
+-- Starting namespace ::N
+-- Starting class ::N::A
+-- Stopping ::N::A
+-- Starting class ::N::B
+-- Stopping ::N::B
+-- Stopping ::N

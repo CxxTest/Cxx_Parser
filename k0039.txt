@@ -1,4 +1,4 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::NS
+-- Stopping ::NS
+-- Starting namespace ::NS
+-- Stopping ::NS

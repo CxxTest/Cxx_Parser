@@ -1,0 +1,46 @@
+-- Starting struct ::Int
+-- Stopping ::Int
+-- Starting struct ::Float
+-- Stopping ::Float
+-- Starting struct ::Parent
+-- Stopping ::Parent
+-- Starting struct ::Child
+-- Stopping ::Child
+-- Starting struct ::A
+-- Stopping ::A
+-- Starting struct ::B
+-- Stopping ::B
+-- Starting struct ::C
+-- Stopping ::C
+-- Starting struct ::D
+-- Stopping ::D
+-- Starting class ::Child2
+-- Stopping ::Child2
+-- Starting struct ::E
+-- Stopping ::E
+-- Starting struct ::F
+-- Stopping ::F
+-- Starting struct ::G
+-- Stopping ::G
+-- Starting struct ::H
+-- Stopping ::H
+-- Starting struct ::I
+-- Stopping ::I
+-- Starting struct ::J
+-- Stopping ::J
+-- Starting struct ::I2
+-- Stopping ::I2
+-- Starting struct ::J2
+-- Stopping ::J2
+-- Starting struct ::K
+-- Stopping ::K
+-- Starting struct ::L
+-- Stopping ::L
+-- Starting struct ::M
+-- Stopping ::M
+-- Starting struct ::N
+-- Stopping ::N
+-- Starting struct ::AA
+-- Stopping ::AA
+-- Starting struct ::BB
+-- Stopping ::BB

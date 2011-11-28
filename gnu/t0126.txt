@@ -1,2 +1,102 @@
 -- Starting struct ::
 -- Stopping ::
+-- Starting struct ::i387_fxsave_struct
+-- Stopping ::i387_fxsave_struct
+-- Starting struct ::semaphore
+-- Stopping ::semaphore
+-- Starting struct ::ncp_inode_info
+-- Stopping ::ncp_inode_info
+-- Starting struct ::local_apic
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting union ::local_apic::
+-- Starting struct ::local_apic::::
+-- Stopping ::local_apic::::
+-- Starting struct ::local_apic::::
+-- Stopping ::local_apic::::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Starting union ::local_apic::::
+-- Stopping ::local_apic::::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Starting struct ::local_apic::
+-- Stopping ::local_apic::
+-- Stopping ::local_apic

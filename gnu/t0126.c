@@ -62,6 +62,7 @@ typedef		__s64		int64_t;
 typedef struct { volatile int counter; } atomic_t;
 extern int printk(const char * fmt, ...)
 	__attribute__ ((format (printf, 1, 2)));
+	__attribute__ ((format (printf, 1, 2)));
 static const char __module_kernel_version[] __attribute__((section(".modinfo"))) =
 "kernel_version=" "2.4.0-test4" ;
   void panic(const char * fmt, ...)

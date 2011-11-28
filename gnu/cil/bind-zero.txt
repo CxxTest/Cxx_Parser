@@ -1,0 +1,4 @@
+-- Starting struct ::printf_arguments
+-- Stopping ::printf_arguments
+-- Starting struct ::_IO_FILE
+-- Stopping ::_IO_FILE

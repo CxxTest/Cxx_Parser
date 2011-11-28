@@ -1,6 +1,6 @@
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
--- Starting namespace ::
--- Stopping ::
+-- Starting namespace ::D
+-- Stopping ::D
+-- Starting namespace ::E
+-- Stopping ::E
+-- Starting namespace ::D
+-- Stopping ::D

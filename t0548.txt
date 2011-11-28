@@ -1,21 +1,21 @@
--- Starting namespace ::
--- Starting class ::::A
--- Stopping ::::A
--- Starting class ::::A::B
--- Stopping ::::A::B
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::A
--- Stopping ::::A
--- Starting class ::::A::B
--- Stopping ::::A::B
--- Stopping ::
--- Starting namespace ::
--- Starting class ::::A
--- Stopping ::::A
--- Starting class ::::A::B
--- Stopping ::::A::B
--- Stopping ::
+-- Starting namespace ::Case1
+-- Starting class ::Case1::A
+-- Stopping ::Case1::A
+-- Starting class ::Case1::A::B
+-- Stopping ::Case1::A::B
+-- Stopping ::Case1
+-- Starting namespace ::Case2
+-- Starting class ::Case2::A
+-- Stopping ::Case2::A
+-- Starting class ::Case2::A::B
+-- Stopping ::Case2::A::B
+-- Stopping ::Case2
+-- Starting namespace ::Case3
+-- Starting class ::Case3::A
+-- Stopping ::Case3::A
+-- Starting class ::Case3::A::B
+-- Stopping ::Case3::A::B
+-- Stopping ::Case3
 -- Starting class ::A
 -- Stopping ::A
 -- Starting class ::A::B
